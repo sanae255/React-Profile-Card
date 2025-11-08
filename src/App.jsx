@@ -7,7 +7,7 @@ function App() {
     <div>
       <Card
         name="Sanae Seradni"
-        img="/images.jpeg"
+        img="./images.jpeg"
         lien="https://github.com/sanae255"
         description="Développeuse web passionnée par React."
         post="Stagiaire"
